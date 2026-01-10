@@ -1,8 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Rashedul%20Islam&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descSize=25&descAlignY=55" width="100%" />
-</p>
 
 #  Welcome to my GitHub! 
 **Full-Stack Web Developer | React, TypeScript & Next.js Specialist | Tech Enthusiast**
@@ -67,9 +64,11 @@ I'm **Rashedul Islam**, a passionate developer dedicated to building clean, resp
 
 ### 🚀 Skills & Stack
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,postman,figma" />
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,go,firebase,git,github,postman,figma,docker,nginx" />
+  </a>
+</p>
 
 ---
 
