@@ -15,14 +15,21 @@ I'm **Rashedul Islam**, a passionate developer dedicated to building clean, resp
 
 <p align="center">
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1e" />
+<img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6" />
+<img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8" />
 <img src="https://img.shields.io/badge/Frontend-React.js-informational?style=flat&logo=react&logoColor=white&color=61dafb" />
-<img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933" />
 <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=000000" />
 <img src="https://img.shields.io/badge/CSS-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=06b6d4" />
+<img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933" />
 <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47a248" />
+<img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1" />
+<img src="https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2D3748" />
 <img src="https://img.shields.io/badge/Auth-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=ffca28" />
+<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED" />
+<img src="https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=009639" />
 <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=f05032" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/rashedulraha">
