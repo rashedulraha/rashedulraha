@@ -39,7 +39,7 @@ I'm **Rashedul Islam**, a passionate developer dedicated to building clean, resp
 ###  About Me
 
  Based in **Bangladesh** 🇧🇩  
- Expert in building **Full-Stack Applications** using the MERN Stack.  
+ Expert in building **Full-Stack Applications & Web ** using the MERN Stack.  
  Focused on **UI/UX Design**, **API Integration**, and **AI Project Development**.  
  Currently exploring **Next.js SSR** and advanced **Data Structures & Algorithms**.
 
