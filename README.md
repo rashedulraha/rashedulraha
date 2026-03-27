@@ -90,5 +90,5 @@ I'm **Rashedul Islam**, a passionate developer dedicated to building clean, resp
 ---
 
 Thanks for visiting my profile! Let's build something amazing together!  
-&copy; 2025 Rashedul Islam / Raha
+&copy; 2025 Rashedul Islam / rashedulraha
 </div>
