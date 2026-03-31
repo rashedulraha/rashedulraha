@@ -75,6 +75,9 @@ I'm a **Full-Stack Developer** and **System Architect** with a strong foundation
       <img src="https://skillicons.dev/icons?i=go" width="48" /><br/>Golang
     </td>
     <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="48" /><br/>Python
+    </td>
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=fastapi" width="48" /><br/>FastAPI
     </td>
     <td align="center" width="100">
