@@ -136,7 +136,7 @@ I'm a **Full-Stack Developer** and **System Architect** with a strong foundation
 
 ---
 
-### 📚 **Learning Journey & Certifications**
+###  **Learning Journey & Certifications**
 
 <details open>
 <summary><strong>🎓 Advanced Full-Stack Development (2024-2026)</strong></summary>
