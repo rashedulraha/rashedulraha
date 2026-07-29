@@ -2,7 +2,7 @@
 
 #  Hi, I'm Rashedul Islam
 
-### 🚀 Full-Stack System Architect · AI & RAG Specialist · C++ | Go | TypeScript
+###  Full-Stack System Architect · AI & RAG Specialist · C++ | Go | TypeScript
 
 <br/>
 
@@ -20,7 +20,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rashedulraha)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/rashedulraha)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashedulraha.bd@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rashedulraha.github.io/Main-exzazon/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rashedul-raha.vercel.app/)
 
 </div>
 
